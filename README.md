@@ -1,6 +1,4 @@
 # Evaluacion2
 Prueba 2 Front End
-
-Jean Eduardo Plaza Zapata
-
-18266535-5
+- Nombre: Jean Eduardo Plaza Zapata
+- Rut: 18266535-5
