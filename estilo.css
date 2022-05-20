@@ -1,0 +1,27 @@
+/*Jean Eduardo Plaza Zapata*/
+button{
+    color: black;
+}
+.botones{
+    background-color: black;
+}
+body{
+    background: -webkit-linear-gradient(top, #7a8c8c,#ede5e3);
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: black;
+}
+h5{
+    color: black;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-family: c;
+}
+.carousel-inner > p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 25px;
+}
